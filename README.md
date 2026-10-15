@@ -16,17 +16,17 @@
 
 ---
 
-## 👋 Sobre mim
+## <img src="https://api.iconify.design/lucide/hand.svg?color=%2358a6ff" width="24" height="24" align="top"/> Sobre mim
 
 Sou estudante de **Engenharia de Software no Inatel** e gosto de transformar ideias em produto — do app mobile à API.
 
-- 📱 Desenvolvo o **OneFit**, app de treino, dieta e acompanhamento profissional (projeto FETIN)
-- 🎮 Crio o **Thread Arena**, um jogo em Godot
-- 🎬 Faço vídeos programáticos com **Remotion**
-- 📊 Curto análise de dados com Python, séries temporais e pesquisa operacional
-- 💬 Pode falar comigo sobre **React Native, TypeScript, GraphQL e Firebase**
+- <img src="https://api.iconify.design/lucide/smartphone.svg?color=%2358a6ff" width="16" height="16" align="top"/> Desenvolvo o **OneFit**, app de treino, dieta e acompanhamento profissional (projeto FETIN)
+- <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%2358a6ff" width="16" height="16" align="top"/> Crio o **Thread Arena**, um jogo em Godot
+- <img src="https://api.iconify.design/lucide/clapperboard.svg?color=%2358a6ff" width="16" height="16" align="top"/> Faço vídeos programáticos com **Remotion**
+- <img src="https://api.iconify.design/lucide/chart-line.svg?color=%2358a6ff" width="16" height="16" align="top"/> Curto análise de dados com Python, séries temporais e pesquisa operacional
+- <img src="https://api.iconify.design/lucide/message-circle.svg?color=%2358a6ff" width="16" height="16" align="top"/> Pode falar comigo sobre **React Native, TypeScript, GraphQL e Firebase**
 
-## 🛠️ Tecnologias
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%2358a6ff" width="24" height="24" align="top"/> Tecnologias
 
 <div align="center">
 
@@ -49,21 +49,21 @@ Sou estudante de **Engenharia de Software no Inatel** e gosto de transformar ide
 
 </div>
 
-## 🚀 Principais projetos
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%2358a6ff" width="24" height="24" align="top"/> Principais projetos
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 OneFit</h3>
+      <h3><img src="https://api.iconify.design/lucide/smartphone.svg?color=%2358a6ff" width="22" height="22" align="top"/> OneFit</h3>
       App de treino, dieta e acompanhamento com profissionais. Mobile em <b>Expo + Expo Router</b>, com BFF <b>GraphQL (Apollo Server)</b> sobre <b>Strapi</b>, Firebase Auth, MongoDB, Redis e Cloudflare R2.
       <br/><br/>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
-      <br/><sub>🔒 Repositório privado · <a href="https://github.com/one-fit-fetin">one-fit-fetin</a></sub>
+      <br/><sub><img src="https://api.iconify.design/lucide/lock.svg?color=%2358a6ff" width="12" height="12" align="top"/> Repositório privado · <a href="https://github.com/one-fit-fetin">one-fit-fetin</a></sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/TobsBP/thread-arena">Thread Arena</a></h3>
+      <h3><img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%2358a6ff" width="22" height="22" align="top"/> <a href="https://github.com/TobsBP/thread-arena">Thread Arena</a></h3>
       Jogo de arena desenvolvido em <b>Godot 4</b> com GDScript.
       <br/><br/>
       <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white"/>
@@ -72,7 +72,7 @@ Sou estudante de **Engenharia de Software no Inatel** e gosto de transformar ide
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/Joao07912/porteira-do-ceu">Porteira do Céu</a></h3>
+      <h3><img src="https://api.iconify.design/lucide/clapperboard.svg?color=%2358a6ff" width="22" height="22" align="top"/> <a href="https://github.com/Joao07912/porteira-do-ceu">Porteira do Céu</a></h3>
       Vídeos promocionais com narração, gerados por código com <b>Remotion</b> e React.
       <br/><br/>
       <img src="https://img.shields.io/badge/Remotion-0B84F3?style=flat-square&logo=remotion&logoColor=white"/>
@@ -80,7 +80,7 @@ Sou estudante de **Engenharia de Software no Inatel** e gosto de transformar ide
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🐾 <a href="https://github.com/Joao07912/Petshop-manager">Petshop Manager</a></h3>
+      <h3><img src="https://api.iconify.design/lucide/paw-print.svg?color=%2358a6ff" width="22" height="22" align="top"/> <a href="https://github.com/Joao07912/Petshop-manager">Petshop Manager</a></h3>
       Sistema de gestão de petshop com cadastro de pets e histórico de serviços.
       <br/><br/>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
@@ -90,13 +90,13 @@ Sou estudante de **Engenharia de Software no Inatel** e gosto de transformar ide
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🥗 <a href="https://github.com/C14-2025/NutriPlan">NutriPlan</a></h3>
+      <h3><img src="https://api.iconify.design/lucide/salad.svg?color=%2358a6ff" width="22" height="22" align="top"/> <a href="https://github.com/C14-2025/NutriPlan">NutriPlan</a></h3>
       App web de acompanhamento nutricional: registro de refeições, histórico e cálculo de macronutrientes.
       <br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🔧 <a href="https://github.com/Joao07912/Start-Portal">Start Portal</a></h3>
+      <h3><img src="https://api.iconify.design/lucide/cpu.svg?color=%2358a6ff" width="22" height="22" align="top"/> <a href="https://github.com/Joao07912/Start-Portal">Start Portal</a></h3>
       Portal para gerenciar competições de Arduino em escolas, com dashboard, ranking e biblioteca de exercícios.
       <br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -105,7 +105,7 @@ Sou estudante de **Engenharia de Software no Inatel** e gosto de transformar ide
   </tr>
 </table>
 
-## 📊 Estatísticas
+## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%2358a6ff" width="24" height="24" align="top"/> Estatísticas
 
 <div align="center">
 
